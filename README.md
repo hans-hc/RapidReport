@@ -35,3 +35,6 @@ Users would also be able to "like" issues so that more pressing accessbility nee
 - NextJS
 - Typescript
 - Tailwind CSS
+
+### Disclaimer
+This repo is a cloned repo of the original project.
